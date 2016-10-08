@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D66A1649-73DB-49A6-8F82-2469740BAB99</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Assignment</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C5089FEF6504818771F3C8E643FCD9C2E66C1A0F</key>
+		<string>github.com:Proudmoor/OpenGL.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>3D_sierpinski/Assignment.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C5089FEF6504818771F3C8E643FCD9C2E66C1A0F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:Proudmoor/OpenGL.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C5089FEF6504818771F3C8E643FCD9C2E66C1A0F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C5089FEF6504818771F3C8E643FCD9C2E66C1A0F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OpenGL</string>
+		</dict>
+	</array>
+</dict>
+</plist>

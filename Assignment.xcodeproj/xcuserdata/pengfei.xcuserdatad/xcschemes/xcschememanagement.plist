@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>3D_Sierpinski copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>3D_Sierpinski.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>DDA_Line.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Lighting.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Line.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E237863C1A40B2F40026A014</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E26190371A56B1A600050E00</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E2AD5E411A1F11C5005C6C46</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E2AD5E661A1FC436005C6C46</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E2AD5E6F1A1FC512005C6C46</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
